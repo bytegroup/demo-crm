@@ -9,3 +9,13 @@ Run the project with
 ```
 mvn package spring-boot:run
 ```
+
+## Login
+
+demo user for login
+
+```
+username: user
+password: 123
+```
+
